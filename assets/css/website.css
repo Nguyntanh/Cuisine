@@ -1,4 +1,4 @@
-.frame33237 {
+header {
     height: 66px;
     display: flex;
     flex-direction: row;
@@ -7,4 +7,33 @@
     padding-left: 72px;
     background-color: #FFFFFF;
     box-shadow: 0px 1px 2px -1px #0000001A;
+}
+
+.frame33237 {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.frame10906 {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame10915 {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.frame41197 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
